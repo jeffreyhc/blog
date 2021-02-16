@@ -25,3 +25,6 @@ excerpt_separator:  '<!--more-->'
 
 disqus:
   shortname: jeffreyhc
+
+custom_var:
+  repo: https://github.com/jeffreyhc/
